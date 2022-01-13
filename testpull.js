@@ -1,1 +1,2 @@
-console.log ("apakabar");
+let test = "message to github"
+console.log (test);
